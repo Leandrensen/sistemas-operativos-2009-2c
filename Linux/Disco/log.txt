@@ -1,0 +1,81 @@
+14:18:33 DISCO [4161]:INFO: ***CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:33 DISCO [4161]:INFO: Tiempo Medio de busqueda de un sector: 0 ms.
+14:18:33 DISCO [4161]:INFO: Peor tiempo de busqueda de un sector: 0 ms.
+14:18:33 DISCO [4161]:INFO: Tasa de transferencia: 0 KB/Seg.
+14:18:33 DISCO [4161]:INFO: Capacidad del disco: 12.0 KB.
+14:18:33 DISCO [4161]:INFO: Cantidad total de sectores: 24.
+14:18:33 DISCO [4161]:INFO: Tiempo medio de acceso a cache: 0 Seg.
+14:18:33 DISCO [4161]:INFO: ***FIN DE CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:33 DISCO [4161]:INFO: Iniciando exitosamente.
+14:18:33 DISCO [4164]:INFO: ***CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:33 DISCO [4164]:INFO: Tiempo Medio de busqueda de un sector: 0 ms.
+14:18:33 DISCO [4164]:INFO: Peor tiempo de busqueda de un sector: 0 ms.
+14:18:33 DISCO [4164]:INFO: Tasa de transferencia: 0 KB/Seg.
+14:18:33 DISCO [4164]:INFO: Capacidad del disco: 12.0 KB.
+14:18:33 DISCO [4164]:INFO: Cantidad total de sectores: 24.
+14:18:33 DISCO [4164]:INFO: Tiempo medio de acceso a cache: 0 Seg.
+14:18:33 DISCO [4164]:INFO: ***FIN DE CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:47 DISCO [4161]:INFO: ***CALCULOS PUTSECTORES***.
+14:18:47 DISCO [4161]:INFO: Sector deseado: 20.
+14:18:47 DISCO [4161]:INFO: Posicion actual del cabezal: 2.
+14:18:47 DISCO [4161]:INFO: Sectores que tendria que atravesar: 2, 11, 20.
+14:18:47 DISCO [4161]:INFO: Tiempo que tardo en escribir dicho sector: 18.6 ms.
+14:18:47 DISCO [4161]:INFO: ***FIN DE PUTSECTORES***.
+14:18:47 DISCO [4161]:INFO: ***CALCULOS PUTSECTORES***.
+14:18:47 DISCO [4161]:INFO: Sector deseado: 21.
+14:18:47 DISCO [4161]:INFO: Posicion actual del cabezal: 21.
+14:18:47 DISCO [4161]:INFO: Sectores que tendria que atravesar: 16, 17, 18, 19, 20, 21.
+14:18:47 DISCO [4161]:INFO: Tiempo que tardo en escribir dicho sector: 36.2 ms.
+14:18:47 DISCO [4161]:INFO: ***FIN DE PUTSECTORES***.
+14:18:47 DISCO [4161]:INFO: ***CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:47 DISCO [4161]:INFO: Tiempo Medio de busqueda de un sector: 0 ms.
+14:18:47 DISCO [4161]:INFO: Peor tiempo de busqueda de un sector: 0 ms.
+14:18:47 DISCO [4161]:INFO: Tasa de transferencia: 0 Bytes/seg.
+14:18:47 DISCO [4161]:INFO: Capacidad del disco: 12.0 KB.
+14:18:47 DISCO [4161]:INFO: Cantidad total de sectores: 24.
+14:18:47 DISCO [4161]:INFO: Tiempo medio de acceso a cache: 0 Seg.
+14:18:47 DISCO [4161]:INFO: ***FIN DE CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:58 DISCO [4161]:INFO: ***CALCULOS GETSECTORES***.
+14:18:58 DISCO [4161]:INFO: Sector deseado: 1.
+14:18:58 DISCO [4161]:INFO: Posicion Actual del cabezal: 17.
+14:18:58 DISCO [4161]:INFO: Sectores que tendria que atravesar: 16, 1.
+14:18:58 DISCO [4161]:INFO: Promedio cache hit: 0.0.
+14:18:58 DISCO [4161]:INFO: Promedio cache miss: 1.0.
+14:18:58 DISCO [4161]:INFO: ***FIN DE GETSECTORES***.
+14:18:58 DISCO [4161]:INFO: ***CALCULOS GETSECTORES***.
+14:18:58 DISCO [4161]:INFO: Sector deseado: 2.
+14:18:58 DISCO [4161]:INFO: Posicion Actual del cabezal: 2.
+14:18:58 DISCO [4161]:INFO: Sectores que tendria que atravesar: 2.
+14:18:58 DISCO [4161]:INFO: Promedio cache hit: 0.0.
+14:18:58 DISCO [4161]:INFO: Promedio cache miss: 1.0.
+14:18:58 DISCO [4161]:INFO: ***FIN DE GETSECTORES***.
+14:18:58 DISCO [4161]:INFO: ***CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:18:58 DISCO [4161]:INFO: Tiempo Medio de busqueda de un sector: 76.0 ms.
+14:18:58 DISCO [4161]:INFO: Tasa de transferencia: 0 Bytes/seg.
+14:18:58 DISCO [4161]:INFO: Capacidad del disco: 12.0 KB.
+14:18:58 DISCO [4161]:INFO: Cantidad total de sectores: 24.
+14:18:58 DISCO [4161]:INFO: Tiempo medio de acceso a cache: 0 Seg.
+14:18:58 DISCO [4161]:INFO: ***FIN DE CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:19:29 DISCO [4161]:INFO: ***CALCULOS GETSECTORES***.
+14:19:29 DISCO [4161]:INFO: Sector deseado: 2.
+14:19:29 DISCO [4161]:INFO: Posicion Actual del cabezal: 6.
+14:19:29 DISCO [4161]:INFO: Sectores que tendria que atravesar: Ninguno.
+14:19:29 DISCO [4161]:INFO: Tiempo que tardaria en servir dicho requerimiento un disco rigido real: tiempoCache (en ms o en ns?).
+14:19:29 DISCO [4161]:INFO: Promedio cache hit: 0.33.
+14:19:29 DISCO [4161]:INFO: Promedio cache miss: 0.66.
+14:19:29 DISCO [4161]:INFO: ***FIN DE GETSECTORES***.
+14:19:29 DISCO [4161]:INFO: ***CALCULOS GETSECTORES***.
+14:19:29 DISCO [4161]:INFO: Sector deseado: 1.
+14:19:29 DISCO [4161]:INFO: Posicion Actual del cabezal: 6.
+14:19:29 DISCO [4161]:INFO: Sectores que tendria que atravesar: Ninguno.
+14:19:29 DISCO [4161]:INFO: Tiempo que tardaria en servir dicho requerimiento un disco rigido real: tiempoCache (en ms o en ns?).
+14:19:29 DISCO [4161]:INFO: Promedio cache hit: 0.50.
+14:19:29 DISCO [4161]:INFO: Promedio cache miss: 0.50.
+14:19:29 DISCO [4161]:INFO: ***FIN DE GETSECTORES***.
+14:19:29 DISCO [4161]:INFO: ***CALCULOS Y ESTADISTICAS DEL DISCO***.
+14:19:29 DISCO [4161]:INFO: Tiempo Medio de busqueda de un sector: 76.0 ms.
+14:19:29 DISCO [4161]:INFO: Tasa de transferencia: 0 Bytes/seg.
+14:19:29 DISCO [4161]:INFO: Capacidad del disco: 12.0 KB.
+14:19:29 DISCO [4161]:INFO: Cantidad total de sectores: 24.
+14:19:29 DISCO [4161]:INFO: Tiempo medio de acceso a cache: 0 Seg.
+14:19:29 DISCO [4161]:INFO: ***FIN DE CALCULOS Y ESTADISTICAS DEL DISCO***.

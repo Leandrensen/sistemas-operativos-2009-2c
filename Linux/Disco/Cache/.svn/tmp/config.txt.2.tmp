@@ -1,0 +1,18 @@
+Disco1
+192.168.1.104
+30000
+192.168.1.104
+30001
+192.168.1.104
+10000
+
+
+Descripciones:
+
+1- Nombre del disco al que pertenece.
+2- IP del primer servidor memcached al que va a acceder.
+3- Puerto del primer servidor memcached al que va a acceder.
+4- IP del segundo servidor memcached al que va a acceder.
+5- Puerto del segundo servidor memcached al que va a acceder.
+6- IP del disco al que pertenece.
+7- Puerto del disco al que pertenece.

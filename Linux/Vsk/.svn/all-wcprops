@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk
+END
+consola.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/consola.c
+END
+cadenas.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/5/Linux/Vsk/cadenas.c
+END
+sysopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/sysopen.c
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/config.txt
+END
+consola.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/consola.h
+END
+cadenas.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/5/Linux/Vsk/cadenas.h
+END
+vsk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/vsk.c
+END
+sysopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/91/Linux/Vsk/sysopen.h
+END
+sysread.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/sysread.c
+END
+sysread.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/sysread.h
+END
+protocolo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/100/Linux/Vsk/protocolo.c
+END
+Manual VSK.doc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/109/Linux/Vsk/Manual%20VSK.doc
+END
+protocolo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/100/Linux/Vsk/protocolo.h
+END
+oft.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/oft.c
+END
+syswrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/syswrite.c
+END
+fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/102/Linux/Vsk/fd.c
+END
+funcionesldap.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/128/Linux/Vsk/funcionesldap.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/Makefile
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/46/Linux/Vsk/syscalls.c
+END
+oft.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/102/Linux/Vsk/oft.h
+END
+fd.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/fd.h
+END
+syswrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/79/Linux/Vsk/syswrite.h
+END
+funcionesldap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/100/Linux/Vsk/funcionesldap.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/syscalls.h
+END
+sysclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/sysclose.c
+END
+sendrecv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/sendrecv.c
+END
+sysclose.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/46/Linux/Vsk/sysclose.h
+END
+syslist.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/113/Linux/Vsk/syslist.c
+END
+sysopenN.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/sysopenN.c
+END
+archivos.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/archivos.c
+END
+sendrecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/sendrecv.h
+END
+syslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/91/Linux/Vsk/syslist.h
+END
+archivos.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/74/Linux/Vsk/archivos.h
+END
+sysopenN.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/123/Linux/Vsk/sysopenN.h
+END

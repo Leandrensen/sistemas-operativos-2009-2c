@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/131/Linux/Disco
+END
+cadenas.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/21/Linux/Disco/cadenas.c
+END
+calculosYEstadisticas.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/calculosYEstadisticas.c
+END
+listas.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/listas.c
+END
+funcionesLdap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/funcionesLdap.h
+END
+initBind.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/initBind.c
+END
+Manual de instalación y ejecución del disco.doc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/107/Linux/Disco/Manual%20de%20instalaci%C3%B3n%20y%20ejecuci%C3%B3n%20del%20disco.doc
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/120/Linux/Disco/config.txt
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/97/Linux/Disco/cache.c
+END
+cadenas.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/21/Linux/Disco/cadenas.h
+END
+calculosYEstadisticas.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/97/Linux/Disco/calculosYEstadisticas.h
+END
+listas.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/listas.h
+END
+initBind.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/initBind.h
+END
+testmemcached.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/testmemcached.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/cache.h
+END
+sendrecv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/97/Linux/Disco/sendrecv.c
+END
+archivos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/94/Linux/Disco/archivos.c
+END
+sendrecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/3/Linux/Disco/sendrecv.h
+END
+log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/120/Linux/Disco/log.txt
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/defines.h
+END
+archivos.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/94/Linux/Disco/archivos.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/main.c
+END
+handshake.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/87/Linux/Disco/handshake.c
+END
+primitivas.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/primitivas.c
+END
+funcionesLdap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/94/Linux/Disco/funcionesLdap.c
+END
+handshake.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/handshake.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/76/Linux/Disco/makefile
+END
+primitivas.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/119/Linux/Disco/primitivas.h
+END

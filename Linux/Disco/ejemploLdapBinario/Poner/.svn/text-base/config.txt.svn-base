@@ -1,0 +1,30 @@
+DA1
+192.168.241.129
+10000
+192.168.241.129
+20000
+10-1-61
+6000
+si
+192.168.241.130
+1389
+password
+3.5
+
+#############################
+
+Aclaraciones:
+
+1- Nombre del Disco (30 caracteres maximo).
+2- IP Propio
+3- Puerto Propio
+4- IP del Array/VSK.
+5- Puerto del Array/VSK.
+6- CHS. C-H-S     
+7- RPM.
+8- Si tiene o no tiene cache. (si / no)
+9- La direccion de IP del host del servidor LDAP.
+10- El puerto del host del servidor LDAP.
+11- El password del servidor LDAP.
+12- El tiempo de acceso a la cache del disco en milisegundos. Un decimal de precision. (No se usa, sacar)
+

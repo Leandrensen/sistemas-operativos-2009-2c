@@ -1,0 +1,1 @@
+DWORD MD5 (char*, char*);

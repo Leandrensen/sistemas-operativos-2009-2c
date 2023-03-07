@@ -1,0 +1,75 @@
+20/09/2009
+
+1 - Pregunta: Las sysCalls ¿son funciones atómicas? es decir, Cuando se ejecutan en el vsk, hasta que no
+	  termina toda su ejecucion no recibe otro pedido.
+Respuesta: 21/09/2009
+Hola Emanuel como va?
+Buena pregunta, lo correcto es, siendo fiel al proposito del procesamiento distribuido, 
+que las system calls de este tp no sean atómicas (o sea no se ejecutan de una sola vez), 
+podría pasar por ej. que el kernel invoque alguna función que le provee el disco y 
+este último no responda por algún motivo, lo que afectaría al resto de los procesos. 
+Esto aplica también al ftp server.
+Dado que la pregunta tiene que ver con las siguientes entregas, siento que debo 
+recomendarles que se concentren con el ftp server, si es que no lo terminaron aun, 
+aunque desde luego que pueden preguntar lo que quieran del tp que les voy a dar respuesta. 
+Si no les quedó claro, repregunten lo que no entiendan.
+
+Slds!
+Pablo
+--------------------------------------------------------------------------------------------------------
+21/09/2009
+2 - Pregunta: Buenas otra vez....
+ 
+Con respecto al protocolo ftp, hemos estado haciendo pruebas de cuales son los mensajes que va recibiendo el ftp server y lo que debe responder.
+El software cliente utilizado fue:
+- Internet explorer
+- Mozilla Firefox
+- FileZilla
+- Ftp Commander
+ 
+Observamos que todos muestran un comportamiento diferente, es decir,
+los pedidos que mandan al FTP server son diferentes entre ellos. por ejemplo:
+ 
+- Internet explorer manda OPTS y a veces el SITE HELP. y el SYST
+Con respecto al SYST nos da la referencia (el rfc del protocolo) del 493, con un listado de los sistemas que se pueden responder al pedido del cliente, entre ellos UNIX, DOS/386... el problema es que no esta contemplado en el desarrollo del tp dentro de los comandos que debe soportar.
+Además, a veces lo envia y a veces no.
+Le podemos responder cualquier cosa y sigue, pero puede afectar el corecto funcionamiento del protocolo con los mensajes siguientes.
+ 
+- FileZilla no manda ninguno de estos, solo envia los principales:
+USER, PASS, PWD, PASV, LS, en ese orden.
+ 
+- Los otros dos, tambien... a veces mandan comandos no indicados en el tp.
+ 
+Entonces... ¿hacia qué cliente nos orientamos?
+ 
+Saludos y muchas gracias!!!!!!!!!!!!!!
+
+Respuesta: 22/09/2009
+Emanuel: seguramente y según recuerdo dijo Luciano C. en las charlas, se va a probar 
+con el cliente estandar de windows, por ejemplo abren el explorador (de windows, no el internet explorer) 
+y en la barra de direcciones escriben ftp:// ip>:<puerto> , tambien tienen la version desde linea 
+de comando de windows
+Es cierto que entre los clientes hay diferencias, pero pueden implementar si quieren alguno de esos 
+comandos extras como el SYST (no se que tanta bolilla le da el cliente a la respuesta, prueben devolviendo 
+algo), para contar con mas opciones de clientes. ¿el winscp lo probaron?
+Por favor consulten si no les da resultado.
+Saludos!
+
+-------------------------------------------------------------------------------------------------------------------
+22/09/2009
+
+3 - Pregunta:
+En el explorador del ftp,
+- Cuando muestro el directorio principal del ftp, ¿debo mostrar carpetas, que en realidad cada una representa un disco? (el array vale por una sola carpeta)
+ó
+- ¿ Muestro todos los archivos de todos los discos sin importar de que disco es?
+El inconveniente con este último es que no se entonces a que dispositivo de almacenamiento pertenece.
+
+Muchas gracias!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+RESPUESTA:
+Buenas.
+Yo había preguntado sobre  listar carpetas para cada DA en el cliente FTP.
+
+En la pagina 21 del TP aparece la sys call se sys_list. Ahí figura si mostrar todos los DA o el contenido de un DA.
+Asi que ya esta.... con respecto a esa pregunta, "me contesto yo mismo"

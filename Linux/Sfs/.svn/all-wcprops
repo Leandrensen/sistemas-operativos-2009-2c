@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/132/Linux/Sfs
+END
+cadenas.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/73/Linux/Sfs/cadenas.c
+END
+define.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/define.h
+END
+srchFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/srchFile.c
+END
+initBind.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/89/Linux/Sfs/initBind.c
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/config.txt
+END
+cadenas.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/73/Linux/Sfs/cadenas.h
+END
+delFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/delFile.c
+END
+srchFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/srchFile.h
+END
+initBind.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/81/Linux/Sfs/initBind.h
+END
+sendrecv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/89/Linux/Sfs/sendrecv.c
+END
+delFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/delFile.h
+END
+sendrecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/89/Linux/Sfs/sendrecv.h
+END
+archivos.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/89/Linux/Sfs/archivos.c
+END
+modFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/modFile.c
+END
+archivos.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/89/Linux/Sfs/archivos.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/132/Linux/Sfs/main.c
+END
+modFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/96/Linux/Sfs/modFile.h
+END
+addFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/addFile.c
+END
+SFSlog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/81/Linux/Sfs/SFSlog.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/104/Linux/Sfs/Makefile
+END
+addFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/126/Linux/Sfs/addFile.h
+END

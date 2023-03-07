@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array
+END
+consola.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/80/Solaris/array/consola.c
+END
+cadenas.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/17/Solaris/array/cadenas.c
+END
+Manual array.doc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/108/Solaris/array/Manual%20array.doc
+END
+disco.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/101/Solaris/array/disco.c
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array/config.txt
+END
+consola.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/58/Solaris/array/consola.h
+END
+cadenas.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/17/Solaris/array/cadenas.h
+END
+disco.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/70/Solaris/array/disco.h
+END
+protocolos.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array/protocolos.h
+END
+sendrecv.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/80/Solaris/array/sendrecv.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array/syscall.c
+END
+sendrecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/80/Solaris/array/sendrecv.h
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array/array.c
+END
+archivos.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/41/Solaris/array/archivos.c
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/124/Solaris/array/syscall.h
+END
+archivos.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/58/Solaris/array/archivos.h
+END
+sincronizacion.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/80/Solaris/array/sincronizacion.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/24/Solaris/array/Makefile
+END
+sincronizacion.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tecladeitor3.2009.2c-tp.so/!svn/ver/80/Solaris/array/sincronizacion.h
+END
